@@ -15,7 +15,7 @@ Most of our input graphs are from SuiteSparse Matrix Collection (https://sparse.
 ## Requirements
 
 - cmake >=3.16.3
-- LLVM >= 9.0.0
+- LLVM with Clang >= 9.0.0
 - Boost C++ Libraries
 - NVIDIA graph library
 - Cuda >= 9.2 && < 11.0
